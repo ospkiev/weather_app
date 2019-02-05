@@ -1,7 +1,7 @@
 {
-  "main.css": "/weather_app/static/css/main.1609c1c2.chunk.css",
-  "main.js": "/weather_app/static/js/main.144bd3a8.chunk.js",
-  "main.js.map": "/weather_app/static/js/main.144bd3a8.chunk.js.map",
+  "main.css": "/weather_app/static/css/main.20b9df9e.chunk.css",
+  "main.js": "/weather_app/static/js/main.bf9d0c58.chunk.js",
+  "main.js.map": "/weather_app/static/js/main.bf9d0c58.chunk.js.map",
   "static/css/1.9cd87eae.chunk.css": "/weather_app/static/css/1.9cd87eae.chunk.css",
   "static/js/1.04d912b9.chunk.js": "/weather_app/static/js/1.04d912b9.chunk.js",
   "static/js/1.04d912b9.chunk.js.map": "/weather_app/static/js/1.04d912b9.chunk.js.map",
@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/weather_app/static/js/runtime~main.2b8e50d3.js.map",
   "static/css/1.9cd87eae.chunk.css.map": "/weather_app/static/css/1.9cd87eae.chunk.css.map",
   "static/media/Harwen-Simple-Favorites.ico": "/weather_app/static/media/Harwen-Simple-Favorites.d3196385.ico",
-  "static/css/main.1609c1c2.chunk.css.map": "/weather_app/static/css/main.1609c1c2.chunk.css.map",
+  "static/css/main.20b9df9e.chunk.css.map": "/weather_app/static/css/main.20b9df9e.chunk.css.map",
   "index.html": "/weather_app/index.html",
-  "precache-manifest.0d6eb552e69466cb5621e71072ca2c8f.js": "/weather_app/precache-manifest.0d6eb552e69466cb5621e71072ca2c8f.js",
+  "precache-manifest.6ccf0095333823266044024d9b3df139.js": "/weather_app/precache-manifest.6ccf0095333823266044024d9b3df139.js",
   "service-worker.js": "/weather_app/service-worker.js"
 }
