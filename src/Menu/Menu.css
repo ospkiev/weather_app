@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    background-color: transparent;
+    color: black;
+    position: absolute;
+    left: 0;
+    top: 25px;
+    list-style: none;
+}
+
+.li{
+    color:#fff;
+    background-color: transparent;
+    font-weight: 400;
+    cursor: pointer;
+    padding-left: 20px;
+    text-decoration: none;
+}
+

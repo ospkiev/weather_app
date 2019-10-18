@@ -1,0 +1,38 @@
+.card{
+    position: absolute;
+    bottom: 10px;
+    display: flex;
+    width: 95%;
+    height: auto;
+    background-color: rgba(102, 116, 116, 0.5);
+    /* margin: 5px; */
+    color:#fff;
+    font-weight: 400;
+    padding:5px;
+    border-radius: 8px;
+    font-size: 15px;
+    left: 10px;
+    
+}
+
+.card_column{
+    width: 300px;
+    height: auto;
+}
+
+.icon_img{
+    /* display: block; */
+    width: 80px;
+    height: auto;
+}
+
+.chart{
+    color:#fff;
+    font-weight: 500;
+    cursor: pointer;
+    padding-left: 20px;
+    text-decoration: none;
+    position: absolute;
+    left:150px;
+    top: 25px;
+}
